@@ -1,0 +1,47 @@
+[
+  {
+    "label": "What is Hello in french?",
+    "choices": [
+      { "value": "Au revoir", "correct": false },
+      { "value": "Bonjour", "correct": true },
+      { "value": "Tant pis", "correct": false },
+      { "value": "Salut!", "correct": false }
+    ]
+  },
+  {
+    "label": "What is Goodbye in french?",
+    "choices": [
+      { "value": "Au revoir", "correct": true },
+      { "value": "Bonjour", "correct": false },
+      { "value": "Tant pis", "correct": false },
+      { "value": "Salut!", "correct": false }
+    ]
+  },
+  {
+    "label": "What is bathroom in french?",
+    "choices": [
+      { "value": "douche", "correct": false },
+      { "value": "le fourneau", "correct": false },
+      { "value": "salle de bains", "correct": true },
+      { "value": "fleuriste", "correct": false }
+    ]
+  },
+  {
+    "label": "What is potato in french?",
+    "choices": [
+      { "value": "homard", "correct": false },
+      { "value": "carotte", "correct": false },
+      { "value": "Patate", "correct": true },
+      { "value": "frites", "correct": false }
+    ]
+  },
+  {
+    "label": "What is sugar in french?",
+    "choices": [
+      { "value": "gâteau", "correct": false },
+      { "value": "sucre", "correct": true },
+      { "value": "crème glacée", "correct": false },
+      { "value": "tarte", "correct": false }
+    ]
+  }
+]
