@@ -1,0 +1,47 @@
+[
+  {
+    "label": "What is 490/7?",
+    "choices": [
+      { "value": "70", "correct": true },
+      { "value": "65", "correct": false },
+      { "value": "33", "correct": false },
+      { "value": "77", "correct": false }
+    ]
+  },
+  {
+    "label": "What is 33 - 90?",
+    "choices": [
+      { "value": "57", "correct": false },
+      { "value": "-57", "correct": true },
+      { "value": "-49", "correct": false },
+      { "value": "49", "correct": false }
+    ]
+  },
+  {
+    "label": "What is 17 x 9?",
+    "choices": [
+      { "value": "149", "correct": false },
+      { "value": "133", "correct": false },
+      { "value": "153", "correct": true },
+      { "value": "170", "correct": false }
+    ]
+  },
+  {
+    "label": "What is (3 + 2)12?",
+    "choices": [
+      { "value": "70", "correct": false },
+      { "value": "65", "correct": false },
+      { "value": "45", "correct": false },
+      { "value": "60", "correct": true }
+    ]
+  },
+  {
+    "label": "What is 69 + 69?",
+    "choices": [
+      { "value": "138", "correct": true },
+      { "value": "129", "correct": false },
+      { "value": "148", "correct": false },
+      { "value": "125", "correct": false }
+    ]
+  }
+]
